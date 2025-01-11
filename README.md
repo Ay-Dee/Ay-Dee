@@ -7,7 +7,7 @@ Full-Stack Developer
 * 🌍  I'm based in Lagos
 * ✉️  You can contact me at [dosunmuahmed240@gmail.com](mailto:dosunmuahmed240@gmail.com)
 * 🤝  I'm open to collaborating on Fullstack projects
-* ⚡  I sing way better than i code
+* ⚡  Fun Fact: I sing way better than i code
 
 ### Skills
 
@@ -27,8 +27,6 @@ Full-Stack Developer
 
 <a href="http://www.github.com/Ay-Dee"><img src="https://github-readme-stats.vercel.app/api?username=Ay-Dee&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ay-Dee's GitHub stats" /></a>
 
-<a href="http://www.github.com/Ay-Dee"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ay-Dee&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Ay-Dee"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ay-Dee&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Ay-Dee"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ay-Dee&theme=github-dark&hide_border=true" /></a>
 
 <a href="https://github.com/Ay-Dee" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ay-Dee&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
